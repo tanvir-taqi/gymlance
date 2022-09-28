@@ -1,0 +1,74 @@
+[
+    {
+      "_id": "633493ff302f564ff11b1b0b",
+      "isActive": false,
+      "time": 24,
+      "picture": "https://img.freepik.com/free-photo/young-fitness-man-studio_7502-5008.jpg?w=740&t=st=1664392135~exp=1664392735~hmac=ce9b19a2380fabf4f2771b7a5fa4b68d1440a9f931133015779b6f0d9b30efff",
+      "name": "Dumble",
+      "about": "Tempor est Lorem adipisicing cillum duis. Deserunt incididunt irure laborum non enim Lorem reprehenderit. Reprehenderit duis nisi nisi dolor dolore aute elit cillum cupidatat. Voluptate cupidatat sunt exercitation in sunt aliquip culpa esse pariatur est.\r\n"
+    },
+    {
+      "_id": "633493ff9108dc6015ee28f1",
+      "isActive": true,
+      "time": 14,
+      "picture": "https://img.freepik.com/free-photo/full-shot-fit-man-training-with-kettlebells_23-2149307728.jpg?w=740&t=st=1664392094~exp=1664392694~hmac=e674d63d04c88be32f156317c6c3a54800b3e2df6a14197df117a1487ac8917c",
+      "name": "Kettlebells",
+      "about": "Magna ad magna consectetur amet. Veniam ea sunt commodo est exercitation amet nulla culpa. Ut eiusmod excepteur consequat Lorem quis adipisicing incididunt laborum magna enim aute. Esse est ad in mollit nostrud aute sint. Ad ea ea voluptate aliqua excepteur fugiat. Nulla consectetur dolore irure eu. Exercitation cupidatat labore ea occaecat eu ipsum laborum ipsum.\r\n"
+    },
+    {
+      "_id": "633493ff41319d30fca94b96",
+      "isActive": true,
+      "time": 45,
+      "picture": "https://img.freepik.com/free-photo/muscular-sportsman-training-with-ropes_651396-292.jpg?w=740&t=st=1664392052~exp=1664392652~hmac=3c6f6ae16462767a8df885b72a4a8d2256cbe850a1a33fa70023c2167cdf34fa",
+      "name": "battle ropes",
+      "about": "Cillum voluptate non veniam occaecat est quis ipsum irure laborum Lorem id nisi ea. Veniam deserunt fugiat adipisicing ut voluptate eiusmod esse anim aliqua ad incididunt. Et commodo aliquip quis aute exercitation et nostrud adipisicing aliqua duis. Pariatur cillum excepteur quis esse excepteur consectetur nisi nostrud laboris ea occaecat laborum reprehenderit consequat. Mollit ipsum id sint duis est ut pariatur incididunt aliqua reprehenderit cupidatat ipsum officia. Incididunt occaecat dolore duis dolor. Velit excepteur ex nulla laboris labore ut.\r\n"
+    },
+    {
+      "_id": "633493fff465623dacdbf321",
+      "isActive": false,
+      "time": 40,
+      "picture": "https://img.freepik.com/free-photo/beautiful-young-slim-woman-doing-some-gymnastics-gym-with-medball_155003-20744.jpg?w=740&t=st=1664392013~exp=1664392613~hmac=d685326278363b9c0bb842349f81f957a4c824d5a09d74cbe0d416863eac2bfc",
+      "name": "Medicine Ball",
+      "about": "In pariatur excepteur eiusmod reprehenderit pariatur ea adipisicing. Do aliqua aliqua consectetur aliqua qui. Ex ea cupidatat anim consectetur sint tempor Lorem ea aliquip eiusmod. Sint laborum labore ad labore culpa nulla sunt adipisicing eu aliquip quis. Magna occaecat aliqua dolore Lorem aute reprehenderit anim pariatur dolor ea.\r\n"
+    },
+    {
+      "_id": "633493ffa576490b473a2e7d",
+      "isActive": true,
+      "time": 57,
+      "picture": "https://img.freepik.com/premium-photo/hip-abduction-blond-man-exercise-gym-indoor_79295-2684.jpg?w=740",
+      "name": "Hip Abduction Machine",
+      "about": "Commodo commodo commodo magna ad enim qui. Nostrud et veniam magna ex magna in incididunt do. Qui non eu duis quis ullamco duis. Proident aliqua cupidatat sint duis elit duis incididunt adipisicing anim elit aute ipsum duis culpa. Nulla amet magna labore reprehenderit non.\r\n"
+    },
+    {
+      "_id": "633493ffd02a076197d06c6e",
+      "isActive": false,
+      "time": 15,
+      "picture": "https://img.freepik.com/premium-photo/beautiful-asian-woman-play-fitness-gymuse-machine-play-back_44277-19341.jpg?w=740",
+      "name": "Lat Pulldown Machine",
+      "about": "Officia cillum pariatur duis mollit nostrud eu ipsum cillum pariatur aliquip cupidatat. Qui veniam cupidatat consectetur eiusmod duis ex exercitation amet sit velit do do in. Voluptate reprehenderit aliquip ipsum eiusmod anim laborum labore irure occaecat sunt consequat amet eu magna. Occaecat voluptate laborum in excepteur proident elit magna velit tempor minim ad nisi velit duis. Ut exercitation id exercitation culpa magna laborum velit amet. Reprehenderit consectetur nulla proident officia cillum eiusmod veniam dolore cupidatat. Laborum exercitation cupidatat consequat labore eu nisi duis magna ex.\r\n"
+    },
+    {
+      "_id": "633493fffb1ac3b5d8523cbf",
+      "isActive": false,
+      "time": 18,
+      "picture": "http://placehold.it/32x32",
+      "name": "Hammer Strength Machine",
+      "about": "Veniam adipisicing exercitation Lorem ullamco ullamco excepteur adipisicing nulla id veniam. Irure duis consectetur non voluptate excepteur. Enim pariatur cillum nulla excepteur qui cillum ipsum dolor.\r\n"
+    },
+    {
+      "_id": "633493ff98a14db5ba70832f",
+      "isActive": true,
+      "time": 10,
+      "picture": "https://img.freepik.com/premium-photo/young-fitness-woman-working-out-fly-exercise-machine-gym_175682-27090.jpg?w=826",
+      "name": "Pec Fly Machine",
+      "about": "Aute nostrud reprehenderit sit cillum labore ea laborum nisi nostrud laborum in. Nulla mollit id cillum cupidatat est officia cillum minim. Sint exercitation sint deserunt consectetur est anim. Tempor nulla aliquip sint incididunt. Excepteur eu consequat aute commodo qui sunt eiusmod.\r\n"
+    },
+    {
+      "_id": "633493ff2230755cb17f987c",
+      "isActive": false,
+      "time": 48,
+      "picture": "https://img.freepik.com/premium-photo/fit-woman-working-out-peck-deck-exercise-machine-gym_175682-31445.jpg?w=740",
+      "name": "Pec Deck Machine",
+      "about": "Sit do proident aute amet. Qui tempor ullamco mollit eu labore exercitation do minim id magna esse sit aliqua nisi. Lorem id ut in officia ea anim quis Lorem quis qui laboris eiusmod. Adipisicing ut reprehenderit ex proident reprehenderit fugiat nisi. Nisi culpa aute reprehenderit sint excepteur commodo mollit ipsum sit commodo elit quis. Dolor exercitation ut ad Lorem.\r\n"
+    }
+  ]
