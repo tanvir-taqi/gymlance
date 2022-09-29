@@ -20,7 +20,7 @@ li{
 
 }
 li:hover{
-    background: rgb(190, 190, 190);
+    background: aliceblue;
     border-radius: 50%;
     
 }

@@ -1,0 +1,31 @@
+
+
+.complete-btn{
+    display: block;
+    margin: 0 auto;
+    padding: 5px 30px;
+    font-size:17px;
+    font-weight: 600;
+    color: black;
+    background: linear-gradient(to right,rgb(126, 98, 252) , aliceblue );
+    border: 1px solid black;
+    box-shadow: 2px 1px 2px black;
+    border-radius:10px;
+    transition: all 0.5s ease;
+    margin-bottom: 20px;
+}
+.complete-btn:hover{
+    
+    background: linear-gradient(to left,rgb(126, 98, 252) , aliceblue );
+
+}
+.detail-time-exercise,.detail-time-break{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(126, 98, 252);
+    margin-bottom: 30px;
+    padding: 0;
+    border-radius: 20px;
+ 
+}
