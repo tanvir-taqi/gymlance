@@ -7,7 +7,7 @@ const Blog = () => {
             <h1>Articles</h1>
             <div className="blog-container">
                 <div className="blog">
-                    <h2>How Does ReactWork ?</h2>
+                    <h2>How Does React Work ?</h2>
                     <p>React uses a declarative paradigm that makes it easier to reason about your application and aims to be both efficient and flexible. It designs simple views for each state in your application, and React will efficiently update and render just the right component when your data changes.React goes through its virtual DOM ,creates a list of those changes that need to be made to the actual DOM and then does it all in one single process.</p>
                 </div>
                 <div className="blog">
