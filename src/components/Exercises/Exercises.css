@@ -14,7 +14,7 @@
     border-radius: 20px;
 }
 .exercise-card button{
-    padding: 7px;
+    padding: 7px 0;
     color: aliceblue;
     background: rgb(104, 70, 255);
     border: 0;
@@ -28,4 +28,20 @@
     color: black;
     background: linear-gradient(to right,rgba(104, 70, 255, 0.651),aliceblue );
     border: 2px solid rgb(104, 70, 255);
+}
+@media screen and (max-width:576px){
+    .exercise-card{
+        padding: 5px;
+        
+    }
+    .exercise-card img {
+        
+        width: 220px;
+        height: 100px;
+        border-radius: 20px;
+    }
+    
+}
+@media screen and (min-width:577px) and (max-width:992px) {
+    
 }

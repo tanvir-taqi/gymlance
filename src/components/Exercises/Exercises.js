@@ -3,7 +3,7 @@ import './Exercises.css'
 
 const Exercises = ({exercise,handleTime}) => {
     
-    const {name,time,picture,id} = exercise
+    const {name,time,picture} = exercise
     
     return (
         <div>
