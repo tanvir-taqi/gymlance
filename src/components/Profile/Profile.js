@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faLocationPin } from '@fortawesome/free-solid-svg-icons'
 import './Profile.css'
@@ -6,6 +6,14 @@ import Break from '../Break/Break';
 import Details from '../Details/Details';
 
 const Profile = ({time}) => {
+
+    const [breakTime,setBreakTime] = useState('')
+
+    const handleBreakTime = (selectedBreakTime)=>{
+        
+        setBreakTime(selectedBreakTime)
+       localStorage.setItem('breakTime',selectedBreakTime)
+    }
     return (
         <div className='profile'>
             <div className="profile-user">
@@ -27,10 +35,10 @@ const Profile = ({time}) => {
                 </div>
             </div>
             <div>
-                <Break></Break>
+                <Break  handleBreakTime={handleBreakTime}></Break>
             </div>
             <div>
-                <Details time={time}></Details>
+                <Details time={time} breakTime = {breakTime}></Details>
             </div>
         </div>
     );
