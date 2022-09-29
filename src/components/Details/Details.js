@@ -1,4 +1,7 @@
 import React from 'react';
+
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 import './Details.css'
 
 const Details = ({ time, breakTime }) => {
@@ -19,6 +22,17 @@ const Details = ({ time, breakTime }) => {
     if (prevBreakTime) {
         breakTime = prevBreakTime
     }
+    const  handleToast = ()=>{
+        toast('Congratulations!! Get Rest Now!!', {
+            position: "top-right",
+            autoClose: 3000,
+            hideProgressBar: false,
+            closeOnClick: true,
+            pauseOnHover: true,
+            draggable: true,
+            progress: undefined,
+            });
+    }
 
 
     return (
@@ -35,8 +49,8 @@ const Details = ({ time, breakTime }) => {
                     <h4>{breakTime ? breakTime : 0}sec</h4>
                 </div>
 
-
-                <button className='complete-btn'>Activity Completed</button>
+                    <ToastContainer></ToastContainer>
+                <button className='complete-btn' onClick={handleToast}>Activity Completed</button>
             </div>
 
         </div>
