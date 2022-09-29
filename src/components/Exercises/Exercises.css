@@ -1,0 +1,31 @@
+
+.exercise-card{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    background: rgba(194, 194, 194, 0.37);
+    border-radius: 20px;
+}
+.exercise-card img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: 100px;
+    border-radius: 20px;
+}
+.exercise-card button{
+    padding: 7px;
+    color: aliceblue;
+    background: rgb(104, 70, 255);
+    border: 0;
+    outline: 0;
+    border-radius: 10px;
+    font-size: 1.1rem;
+    letter-spacing: 1px;
+    border: 2px solid transparent;
+}
+.exercise-card button:hover{
+    color: black;
+    background: linear-gradient(to right,rgba(104, 70, 255, 0.651),aliceblue );
+    border: 2px solid rgb(104, 70, 255);
+}

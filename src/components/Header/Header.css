@@ -1,0 +1,11 @@
+.header{
+    background: rgb(104, 70, 255);
+   
+    margin:0 ;
+    padding:2px;
+}
+h1{
+    padding: 0 100px;
+    font-size: 1.9rem;
+    color: aliceblue;
+}
