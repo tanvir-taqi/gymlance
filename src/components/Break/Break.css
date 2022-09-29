@@ -16,12 +16,14 @@ li{
     margin:0 15px;
     cursor: pointer;
     padding: 4px;
-    font-weight: 700px;
+    
+    border: 1px solid transparent;
 
 }
 li:hover{
-    background: aliceblue;
+    background: rgb(104, 70, 255);
     border-radius: 50%;
+    border: 1px solid aliceblue;
     
 }
 

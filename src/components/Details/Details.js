@@ -42,11 +42,11 @@ const Details = ({ time, breakTime }) => {
 
                 <div className="detail-time-exercise">
                     <h4>Exercise Time:</h4>
-                    <h4> {newTotalTime}</h4>
+                    <h4 className='time-numbers'> {newTotalTime}</h4>
                 </div>
                 <div className="detail-time-break">
                     <h4>Break Time: </h4>
-                    <h4>{breakTime ? breakTime : 0}sec</h4>
+                    <h4 className='time-numbers'>{breakTime ? breakTime : 0}sec</h4>
                 </div>
 
                     <ToastContainer></ToastContainer>

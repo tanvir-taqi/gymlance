@@ -8,10 +8,10 @@ const Break = ({handleBreakTime}) => {
         <div className='break'>
             <h4>Add a Break</h4>
             <ul>
-                <li onClick={()=>handleBreakTime(20)}>20s</li>
-                <li onClick={()=>handleBreakTime(30)}>30s</li>
-                <li onClick={()=>handleBreakTime(40)}>40s</li>
-                <li onClick={()=>handleBreakTime(50)}>50s</li>
+                <li onClick={()=>handleBreakTime(20)}><b>20s</b> </li>
+                <li onClick={()=>handleBreakTime(30)}><b>30s</b> </li>
+                <li onClick={()=>handleBreakTime(40)}><b>40s</b> </li>
+                <li onClick={()=>handleBreakTime(50)}><b>50s</b> </li>
             </ul>
         </div>
     );
